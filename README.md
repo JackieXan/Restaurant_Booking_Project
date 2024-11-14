@@ -1,2 +1,2 @@
 # Restaurant_Booking_Project
-this is readme
+this is readme.
